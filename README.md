@@ -17,19 +17,19 @@ The purpose of this repository is to manage edits or issues of the Photon Sketch
 
 #### Base
 
-The _Base_ library includes all atomic Photon elements such as colors, icons and typography text styles.
+The _Base_ library includes atomic Photon elements such as colors, icons and typography text styles.
 
 Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > Base.sketch
 
 #### In Content
 
-The _In Content_ library includes all necessary components and views in order to enable you to design new in content experiences.
+The _In Content_ library includes components and views that enable you to design new in content experiences like about:preferences.
 
 Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > In Content - Firefox.sketch 
 
 #### Cursor Pack
 
-The _Cursor Pack_ allows you to display interaction on static assets with the help of handy cursors.
+The _Cursor Pack_ allows you to display interaction on static assets with a collection of handy cursors.
 
 Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > Cursor Pack.sketch 
 
