@@ -1,6 +1,15 @@
 # Photon Sketch Libraries
 
-The purpose of this repository is for managing needed changes or issues with to the Photon Sketch.app libraries.
+The purpose of this repository is to manage edits or issues of the Photon Sketch.app libraries.
+
+## Use
+
+- Install [Sketch.app](https://www.sketchapp.com/)
+- Install [Google Drive File Stream.app](https://www.google.com/drive/download/)
+- Launch Google Drive File Stream and sign in with your Mozilla account
+- Launch Sketch.app and then open Sketch "Preferences..."
+- Select the "Libraries" tab
+- Click on "Add Library..." and navigate to the desired library location - respective locations available below.
 
 ## Libraries
 
@@ -8,51 +17,53 @@ The purpose of this repository is for managing needed changes or issues with to 
 
 #### Base
 
-The _Base_ library includes all atomic Photon information such as colors, icons and typography text styles.
+The _Base_ library includes all atomic Photon elements such as colors, icons and typography text styles.
+
+Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > Base.sketch
 
 #### In Content
 
-The _In Content_ library includes all necessary components and views in order to enable you to design new in content–aka about: pages–experiences. 
+The _In Content_ library includes all necessary components and views in order to enable you to design new in content experiences.
 
-#### macOS Cursor Pack
+Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > In Content - Firefox.sketch 
 
-The _macOS Cursor Pack_ allows you to display interaction on static assets with the help of handy cursors.
+#### Cursor Pack
+
+The _Cursor Pack_ allows you to display interaction on static assets with the help of handy cursors.
+
+Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > Cursor Pack.sketch 
 
 #### Windows 10
 
-...
+Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > Windows 10.sketch
 
 ### Mobile
 
 #### Android - Firefox
 
-...
-
-#### Apple iOS UI
-
-...
+Location on Google Drive: Firefox Design > Projects > Firefox - Android > ~Libraries > Android - Firefox.sketch
 
 #### iOS - Firefox
 
-...
+Location on Google Drive: Firefox Design > Projects > Firefox - iOS > ~Library > iOS - Firefox.sketch
 
 ### TV
 
 #### Fire TV - Firefox
 
-...
+Location on Google Drive: Firefox Design > Projects > Firefox - Fire TV > ~Libraries > FireTV - Firefox.sketch
 
 ### Misc
 
 #### Presentations
 
-...
+Location on Google Drive: Firefox Design > Projects > ~Library > Presentations.sketch
 
 ## Issues
 
-[Open an issue](https://github.com/firefoxux/photon-library/issues/new) for requests or issues with exiting libraries.
+[Open an issue](https://github.com/firefoxux/photon-library/issues/new) for requests or issues with existing libraries.
 
 ## Contribute
 
-[Open an issue](https://github.com/firefoxux/photon-library/issues/new) and attach a .zip file that contains the proposed changes or additions.
+[Open an issue](https://github.com/firefoxux/photon-library/issues/new) and attach a .zip file that contains proposed changes or additions.
 
