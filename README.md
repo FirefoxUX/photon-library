@@ -13,7 +13,7 @@ The purpose of this repository is to manage edits or issues of the Photon Sketch
 
 ## Libraries
 
-### Desktop
+### 🖥️ Desktop
 
 #### Base
 
@@ -37,7 +37,7 @@ Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libra
 
 Location on Google Drive: Firefox Design > Projects > Firefox - Desktop > ~Libraries > Windows 10.sketch
 
-### Mobile
+### 📱 Mobile
 
 #### Android - Firefox
 
@@ -47,13 +47,13 @@ Location on Google Drive: Firefox Design > Projects > Firefox - Android > ~Libra
 
 Location on Google Drive: Firefox Design > Projects > Firefox - iOS > ~Library > iOS - Firefox.sketch
 
-### TV
+### 📺 TV
 
 #### Fire TV - Firefox
 
 Location on Google Drive: Firefox Design > Projects > Firefox - Fire TV > ~Libraries > FireTV - Firefox.sketch
 
-### Misc
+### 🕹️ Misc
 
 #### Presentations
 
