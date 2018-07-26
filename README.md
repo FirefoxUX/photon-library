@@ -2,6 +2,11 @@
 
 The purpose of this repository is to manage edits or issues of the Photon Sketch.app libraries.
 
+## Requirements
+
+- macOS 10.13
+- Sketch 51 or greater
+
 ## Use
 
 - Install [Sketch.app](https://www.sketchapp.com/)
