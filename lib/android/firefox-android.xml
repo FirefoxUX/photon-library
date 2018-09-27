@@ -4,14 +4,14 @@
     <title>Firefox - Android</title>
     <description>Firefox for Android Sketch library</description>
     <image>
-      <url></url>
-      <title>My Sketch Library</title>
+      <url>https://raw.githubusercontent.com/FirefoxUX/photon-library/rss-sketch-library/lib/android/Cover.png</url>
+      <title>Cover image for Firefox for Android Sketch library</title>
     </image>
     <generator>Sketch</generator>
     <item>
       <title>Firefox - Android</title>
       <pubDate>Thu, 27 Sep 2018 15:00:00 GMT</pubDate>
-      <enclosure url="mysketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="sketch://add-library?url=https%3A%2F%2Fgithub.com%2FFirefoxUX%2Fphoton-library%2Fblob%2Frss-sketch-library%2Flib%2Fandroid%2FAndroid%2520-%2520Firefox.sketch%3Fraw%3Dtrue" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
