@@ -11,7 +11,7 @@
     <item>
       <title>Firefox - Android</title>
       <pubDate>Thu, 27 Sep 2018 15:00:00 GMT</pubDate>
-      <enclosure url="sketch://add-library?url=https%3A%2F%2Fgithub.com%2FFirefoxUX%2Fphoton-library%2Fblob%2Frss-sketch-library%2Flib%2Fandroid%2FAndroid%2520-%2520Firefox.sketch%3Fraw%3Dtrue" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2FFirefoxUX%2Fphoton-library%2Frss-sketch-library%2Flib%2Fandroid%2Ffirefox-android.xml" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
